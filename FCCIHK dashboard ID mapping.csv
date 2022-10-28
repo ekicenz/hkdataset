@@ -1,0 +1,46 @@
+ID,Text
+Page_Title,Welcome to the HK Business Dashboard
+Page_Subtitle,an initiative led by the French Chamber of Commerce and Industry Hong Kong (FCCIHK)
+Page_LastUpdate,Last Updated on: 10th Oct 2022
+Introbox_FCCIHK_Title,French Chamber of Commerce and Industry Hong Kong 
+Introbox_FCCIHK_Text,The French Chamber of Commerce and Industry in Hong Kong has been serving the interests of the French and international business community in Hong Kong for over 35 years. <br> We help companies set up and expand in Hong Kong while driving closer engagement between the French and local business communities.
+Introbox_HKBD_Title,The Hong Kong Business Dashboard
+Introbox_HKBD_Text,"We measure the strength of the economic relationship through our Hong Kong Business Dashboard. <br> Through a range of open-source data sets across industries, we are able to offer a unique and up-to-date perspective on business conditions and customer demographics in Hong Kong."
+Introbox_Eki_Title,Ekimetrics
+Introbox_Eki_Text,"Ekimetrics is a pioneering leader in data science and AI-powered solutions for sustainable business performance. <br> We help companies get more from their data and implement pre-packaged solutions, so they can combine high impact with long-term business purposes."
+RIPSE_Header,Retail Industry Prospect & Sales Evolution
+RIPSE_Description,"The three major industries (shown in the bar chart below) have similar shares in the retails sales this year. <br> Due to covid in 2019, there was a decrease in sales across all industries but signs of recovery are shown for Food & Beverage and Jewellery & Luxuries in June 2022. These goods are showing a positive change when compared to June 2021."
+RIPSE_Source,Source: Data Gov
+RIPSE_Chart02A_Remark,This graph compares year-to-date retail sales percentage change from period Jan 2021-Jun 2021 to period Jan 2022-Jun 2022
+RIPSE_Chart02B_Remark,This graph compares monthly retail sales percentage change from Jun 2021 to Jun 2022
+CSHKSC_Header,"Consumer Spending in Hong Kong, Singapore & China"
+CSHKSC_Description,"Positive consumer spend growth in Hong Kong over the past 10 years, except in 2020 due to Covid pandemic. It quickly rebounces to pre-covid level in the following year with a +5% year-on-year evolution in 2021."
+CSHKSC_Source,Source: World Bank 
+CSHKSC_Remark,* 2021 China data is not available
+HKVC_Header,Hong Kong Visitors by Country
+HKVC_Description,"With travel restrictions easing in March 2022, there is a quick rebounce in monthly passenger traffic and flight movement, reaching a 2-year high in July 2022. With covid restrictions continue to ease in Q3 2022, projecting an optimistic outlook for Hong Kong Tourism."
+HKVC_Source,"Source: Hong Kong Airport, Data Gov"
+HKVC_Remark1,July 2020 vs June 2021
+HKVC_Remark2,* Flight movement includes the number of passengers and cargo handled (tonnes)
+JM_Header,Job Market
+JM_Description,Job market has a drop in number of employed people across most industries as Hong Kong suffers from a population drop. 
+JM_Source,Source: Census and Statistics Department
+TSP_Header,Transportation
+TSP_Text,"Hong Kong has one of the most impressively extensive transit systems in the world, used by around 3.5 million people every day. <br> The daily traffic had declined during lockdown period, however it also quickly rebounces, showing high mobility in Hong Kong."
+TSP_Source,Source: MTR
+TSP_Chart01_Remark,"Domestic Service includes Tsuen Wan Line, Kwun Tong Line, Island Line, South Island Line, Tseung Kwan O Line, Tung Chung Line, Disneyland Resort Line, East Rail Line (excluding Cross boundary) and Tuen Ma Line. "
+OOPT_Header,Online VS Offline Payment Trends
+OOPT_Description,"As the consumption vouchers were introduced to stimulate consumer spending in 2021 Q3, there has been a spike in SVF spending, which consmption voucher scheme will continue into 2022."
+OOPT_Source,Source: HKMA
+OOPT_Chart01_Description,Total value per transaction as of latest quarter is $782
+OOPT_Chart02_Description,Total value per transaction as of latest quarter is $83
+OOPT_Chart02_Remark,"SVF stands for Stored Value Facility e.g. PayPal, Octopus Card, Wechat Pay, PayMe by HSBC, Alipay etc"
+CR_Header,Commercial Rent
+CR_Description,Hong Kong commercial rental market drops as Tourism declines. The rental relief poses opportunity to retailers to greatly cut cost as Hong Kong is one of the world's most expensive markets.
+CR_Source,Source: Centaline Property 
+Footer_FCCIHK_Header,FCCIHK
+Footer_FCCIHK_Text,The French Chamber of Commerce and Industry in Hong Kong has been serving the interests of the French and international business community in Hong Kong for over 35 years.
+Footer_Contact_Header,Contact
+Footer_Contact_Text,"For more information, contact the FCCIHK."
+Footer_Legal_Header,Legal
+Footer_Legal_Text,Ekimetrics publishes these graphs and data for information purposes and uses the data and content only for non commercial purposes.
