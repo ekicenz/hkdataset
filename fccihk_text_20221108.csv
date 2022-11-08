@@ -25,14 +25,14 @@ HKVC_Remark1,July 2020 vs June 2021
 HKVC_Remark2,* Flight movement includes the number of passengers and cargo handled (tonnes)
 JM_Header,Job Market
 JM_Description,Hong Kong's job market has a drop in the number of employed people across most industries as the city has seen its population dip.
-JM_Source,"Source: Table E003, Government of the Hong Kong Special Administrative Region, Census & Statistics Department, censtatd.gov.hk"
+JM_Source,"Source: Table E003, Government of the Hong Kong Special Administrative Region, Census & Statistics Department, [censtatd.gov.hk]"
 TSP_Header,Transportation
 TSP_Text,"Hong Kong has one of the most extensive and well-connected public transportation systems in the world, used by around 3.5 million people every day. \n\n The daily traffic declined during the period of lockdowns and tight social distancing restrictions, however it has also quickly recovered, showing high mobility in Hong Kong and a return to regular daily activities."
 TSP_Source,Source: MTR
 TSP_Chart01_Remark,"*Including Domestic Service, Airport Express, Cross-boundary and Intercity, Light Rail & Bus"
 OOPT_Header,Online VS Offline Payment Trends
 OOPT_Description,"Consumption vouchers were introduced to stimulate consumer spending in 2021 Q3. Subsequently, there has been a spike in spending on Stored Value Facilities (SVF), which is expected to continue through 2022 with the latest phase of the voucher scheme. "
-OOPT_Source,"Source: Hong Kong Monetary Authority, https://apidocs.hkma.gov.hk/, Hong Kong Monetary Authority - Terms and Conditions of Use (hkma.gov.hk)"
+OOPT_Source,"Source: Hong Kong Monetary Authority, [https://apidocs.hkma.gov.hk/], Hong Kong Monetary Authority - Terms and Conditions of Use ([hkma.gov.hk])"
 OOPT_Chart01_Description,Total value per transaction as of latest quarter is $782
 OOPT_Chart02_Description,Total value per transaction as of latest quarter is $83
 OOPT_Chart02_Remark,"*SVF stands for Stored Value Facility e.g. PayPal, Octopus Card, Wechat Pay, PayMe by HSBC, Alipay etc"
