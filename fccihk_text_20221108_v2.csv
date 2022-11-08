@@ -13,7 +13,7 @@ RIPSE_Description,"These three major industries (shown in the bar chart below) h
 RIPSE_Source,"Source and Copyright: Office of the Government Chief Information Officer of the Government of the Hong Kong Special Administrative Region, DATA.GOV.HK
 Dataset Name: Table E089"
 RIPSE_Chart02A_Remark,This graph compares year-to-date retail sales percentage change from last year to this year.
-RIPSE_Chart02B_Remark,This graph compares monthly retail sales percentage change from Jun 2021 to Jun 2022
+RIPSE_Chart02B_Remark,This graph compares month-to-date retail sales percentage change from the month of last year to the month of this year.
 CSHKSC_Header,"Consumer Spending in Hong Kong, Singapore & China"
 CSHKSC_Description,"There has been positive consumer spending growth in Hong Kong over the past 10 years, except in 2020 due to Covid pandemic. It has quickly recovered to pre-covid levels in the following year with a +5% year-on-year evolution in 2021."
 CSHKSC_Source,"Source: The World Bank: Dataset name: Final consumption expenditure (current US$) - Hong Kong SAR, China"" and ""Population, total - Hong Kong SAR, China, available under Creative Commons 4.0, Terms of Use for Datasets ([https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets])"
